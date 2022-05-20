@@ -14,6 +14,10 @@
     margin: 20px;
     font-size: 70px;
     cursor: pointer;
+    transition: background-color .5s;
+  }
+  .socialMedia svg:hover {
+    background-color: red;
   }
   
   .footer p {
